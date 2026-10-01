@@ -1,23 +1,49 @@
-# MuVer
+<img src="assets/banner.svg" width="100%" alt="MuVer · Fullstack developer · Web, automation, Android">
 
-Разрабатываю и обновляю сайты — от лендингов до веб-приложений. Пишу Telegram-ботов и инструменты на Python, которые помогают работать с данными и автоматизировать повседневные задачи.
+Разрабатываю сайты и веб-приложения: интерфейсы на **React и Next.js**, серверную часть на **Python и Django**. Работаю с интерактивной графикой, Telegram-ботами и развёртыванием сервисов на Linux.
 
-В проектах использую JavaScript, React, HTML/CSS и Python. Для сайтов с 3D — Three.js, для серверной части — Django. Есть и отдельные проекты на Kotlin для Android.
+**Открыт к удалённой работе и проектным задачам.**
 
-## Сайты и интерфейсы
+### Избранные проекты
 
-- **[Тетрис](https://github.com/Murad-big/tetris-game)** — браузерная игра на JavaScript и Canvas, с клавиатурным управлением и подсчётом очков.
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Murad-big/zest-3d-landing"><img src="assets/zest-preview.png" width="100%" alt="ZEST: лендинг с интерактивной 3D-банкой"></a>
+<h3><a href="https://github.com/Murad-big/zest-3d-landing">ZEST ↗</a></h3>
+<p>Лендинг вымышленного бренда напитков. Вращение 3D-банки, смена вкуса и конструктор набора из шести банок с сохранением выбора.</p>
+<p><code>JavaScript</code> <code>Three.js</code> <code>HTML / CSS</code></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Murad-big/vanta-trading"><img src="assets/vanta-preview.png" width="100%" alt="VANTA: лендинг и учебный торговый терминал"></a>
+<h3><a href="https://github.com/Murad-big/vanta-trading">VANTA ↗</a></h3>
+<p>Анимированный лендинг и учебный терминал: свечной график, заявки, позиции и виртуальный баланс. Русский и английский интерфейсы.</p>
+<p><code>React</code> <code>Vite</code> <code>Canvas</code></p>
+</td>
+</tr>
+</table>
 
-## Автоматизация
+ZEST и VANTA - демонстрационные проекты. Покупка напитков и реальные торговые операции не подключены.
 
-- **[Задачник для Telegram](https://github.com/Murad-big/TG-ChatZadachnik)** — задачи, ответственные, сроки и работа с Excel и Google Таблицами.
-- **[Парсер каталога с SQLite](https://github.com/Murad-big/ParserWithSQL)** — сбор карточек товаров и изображений с сохранением данных в базу.
-- **[Бот с мемами](https://github.com/Murad-big/TG-MEME-POSTER)** — загрузка и отправка случайных картинок по команде.
+### Ещё работы
 
-## Android
+| Проект | Что реализовано | Технологии |
+| --- | --- | --- |
+| [ForSTUDENT](https://github.com/Murad-big/ForSTUDENT) | Расписание ИУБиП, выбор группы, виджеты и будильник к первой паре | Kotlin, Jetpack Compose, Room |
+| [Telegram-задачник](https://github.com/Murad-big/TG-ChatZadachnik) | Задачи, ответственные, сроки, напоминания, Excel и Google Таблицы | Python, Telegram Bot API |
+| [ParserWithSQL](https://github.com/Murad-big/ParserWithSQL) | Асинхронный сбор карточек товаров и изображений, сохранение в SQLite | Python, aiohttp, aiosqlite |
+| [Tetris](https://github.com/Murad-big/tetris-game) | Игровое поле, фигуры, очки и увеличение сложности | JavaScript, Canvas |
 
-**[ForSTUDENT](https://github.com/Murad-big/ForSTUDENT)** — расписание ИУБиП с выбором группы, виджетами и будильником к первой паре. Написано на Kotlin и Jetpack Compose.
+**СЕНСЕЙ / WhiteSensei** - участвовал в разработке [сайта логистического сервиса](https://white-cargo-sensei.ru/): услуги, этапы работы с грузом и пошаговая заявка с прикреплением файлов. Стек: Next.js, React, TypeScript.
 
-## Над чем работаю
+### Стек
 
-Сайты для бизнеса, обновление существующих интерфейсов и небольшие сервисы под конкретную задачу. В репозиториях есть как новые проекты, так и учебные работы; особенности запуска и состояние каждой работы описаны в её README.
+| Направление | Инструменты |
+| --- | --- |
+| Frontend | JavaScript, TypeScript, React, Next.js, HTML, CSS, Vite |
+| Backend и автоматизация | Python, Django, Telegram-боты, SQLite |
+| Интерактивная графика | Three.js, Canvas, 3D-сцены и анимация |
+| Серверы | Linux, VPS, SSH, Docker, systemd, Caddy, HTTPS |
+| Android | Kotlin, Jetpack Compose |
+
+В репозиториях есть инструкции по запуску, описание возможностей и текущих ограничений.

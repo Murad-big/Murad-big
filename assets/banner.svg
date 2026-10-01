@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="MuVer - Fullstack developer. Web, automation, Android.">
+<rect width="1200" height="300" rx="20" fill="#101b2c"/>
+<path d="M820 0v300M930 0v300M1040 0v300M1150 0v300M750 60h450M750 150h450M750 240h450" stroke="#23344b" stroke-width="1"/>
+<rect x="52" y="48" width="34" height="5" rx="2.5" fill="#a8e7d1"/>
+<text x="52" y="90" fill="#a8e7d1" font-family="Arial,sans-serif" font-size="15" letter-spacing="4">WEB / AUTOMATION / ANDROID</text>
+<text x="48" y="175" fill="#ffffff" font-family="Arial,sans-serif" font-size="76" font-weight="700" letter-spacing="-3">MuVer</text>
+<text x="52" y="223" fill="#bac9dc" font-family="Arial,sans-serif" font-size="28">Fullstack developer</text>
+<path d="M944 96l-48 54 48 54M1056 96l48 54-48 54M1021 83l-42 134" fill="none" stroke="#a8e7d1" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
